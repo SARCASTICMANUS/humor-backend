@@ -1,0 +1,602 @@
+
+[
+  {
+    "category": "Tech & Geek Humor",
+    "isAnonymous": false,
+    "text": "My code finally runs without errors. Now I'm suspicious. What did it break silently?",
+    "comments": [
+      {
+        "text": "It's not a bug, it's an undocumented feature.",
+        "replies": []
+      },
+      {
+        "text": "The calm before the storm. Good luck in production.",
+        "replies": []
+      }
+    ],
+    "reactions": [
+      { "type": "Amused", "count": 15 },
+      { "type": "Clever", "count": 25 },
+      { "type": "...Wow", "count": 3 }
+    ]
+  },
+  {
+    "category": "Office & College Life",
+    "isAnonymous": true,
+    "text": "My enthusiasm for this 'mandatory fun' team-building event can be measured in negative numbers.",
+    "comments": [
+      {
+        "text": "Just smile and wave, boys. Smile and wave.",
+        "replies": []
+      }
+    ],
+    "reactions": [
+      { "type": "Amused", "count": 35 },
+      { "type": "Clever", "count": 10 },
+      { "type": "...Wow", "count": 5 }
+    ]
+  },
+  {
+    "category": "Relationship & Dating Humor",
+    "isAnonymous": false,
+    "text": "Told my wife I'd be ready in 5 minutes. That was an hour ago. In my defense, I did not specify which 5 minutes.",
+    "comments": [
+      {
+        "text": "Living on the edge, I see.",
+        "replies": []
+      },
+      {
+        "text": "Are you posting this from the couch tonight?",
+        "replies": []
+      }
+    ],
+    "reactions": [
+      { "type": "Amused", "count": 40 },
+      { "type": "Clever", "count": 12 },
+      { "type": "...Wow", "count": 2 }
+    ]
+  },
+  {
+    "category": "Roasts & Burns",
+    "isAnonymous": false,
+    "text": "You aren't the sharpest tool in the shed. You're more like the weird, rusty spoon nobody knows the origin of.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 22 },
+      { "type": "Clever", "count": 30 },
+      { "type": "...Wow", "count": 18 }
+    ]
+  },
+  {
+    "category": "Relationship & Dating Humor",
+    "isAnonymous": false,
+    "text": "My girlfriend asked me what I wanted for dinner. I said 'I don't mind'. We are now entering our third hour of philosophical debate on the meaning of food.",
+    "comments": [
+        { "text": "The eternal struggle is real.", "replies": [] }
+    ],
+    "reactions": [
+      { "type": "Amused", "count": 28 },
+      { "type": "Clever", "count": 8 },
+      { "type": "...Wow", "count": 4 }
+    ]
+  },
+  {
+    "category": "Random & Toilet Humor",
+    "isAnonymous": true,
+    "text": "My chai is 90% adrak (ginger). At this point, I'm not sure if I'm curing a cold or trying to start a fire in my stomach.",
+    "comments": [
+        { "text": "That's the only way to drink it!", "replies": [] },
+        { "text": "My Dad's chai recipe, probably.", "replies": [] }
+    ],
+    "reactions": [
+      { "type": "Amused", "count": 19 },
+      { "type": "Clever", "count": 3 },
+      { "type": "...Wow", "count": 1 }
+    ]
+  },
+  {
+    "category": "Political Satire",
+    "isAnonymous": false,
+    "text": "My local politician promised to fix the potholes. He just painted smiley faces in them. It's technically an improvement.",
+    "comments": [
+        { "text": "Chaotic good.", "replies": [] }
+    ],
+    "reactions": [
+      { "type": "Amused", "count": 14 },
+      { "type": "Clever", "count": 22 },
+      { "type": "...Wow", "count": 6 }
+    ]
+  },
+  {
+    "category": "Office & College Life",
+    "isAnonymous": false,
+    "text": "My parents told me, 'Beta, get a stable government job.' Now I work at a startup where we 'pivot' every two weeks. Close enough.",
+    "comments": [
+        { "text": "It's called 'agile', look it up.", "replies": [] },
+        { "text": "The stability of a unicycle on a tightrope.", "replies": [] }
+    ],
+    "reactions": [
+      { "type": "Amused", "count": 33 },
+      { "type": "Clever", "count": 18 },
+      { "type": "...Wow", "count": 7 }
+    ]
+  },
+  {
+    "category": "Tech & Geek Humor",
+    "isAnonymous": true,
+    "text": "I have 15 tabs open in my browser. All of them are for things I need to do. I am currently staring at a 16th tab of a cat falling off a chair.",
+    "comments": [
+        { "text": "This is the way.", "replies": [] }
+    ],
+    "reactions": [
+      { "type": "Amused", "count": 50 },
+      { "type": "Clever", "count": 5 },
+      { "type": "...Wow", "count": 5 }
+    ]
+  },
+  {
+    "category": "Roasts & Burns",
+    "isAnonymous": false,
+    "text": "My auntie told me I've put on weight. I told her I'm just storing energy for the next time she asks why I'm still single.",
+    "comments": [
+        { "text": "Emotional damage!", "replies": [] }
+    ],
+    "reactions": [
+      { "type": "Amused", "count": 25 },
+      { "type": "Clever", "count": 35 },
+      { "type": "...Wow", "count": 10 }
+    ]
+  },
+  {
+    "category": "Relationship & Dating Humor",
+    "isAnonymous": false,
+    "text": "On my dating profile, I wrote '6ft'. I didn't specify in which direction.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 18 },
+      { "type": "Clever", "count": 28 },
+      { "type": "...Wow", "count": 9 }
+    ]
+  },
+  {
+    "category": "Random & Toilet Humor",
+    "isAnonymous": true,
+    "text": "Why do they lock gas station bathrooms? Are they afraid someone will clean them?",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 30 },
+      { "type": "Clever", "count": 15 },
+      { "type": "...Wow", "count": 8 }
+    ]
+  },
+  {
+    "category": "Political Satire",
+    "isAnonymous": false,
+    "text": "If voting changed anything, they'd make it illegal. Oh, wait.",
+    "comments": [
+        { "text": "Too real.", "replies": [] }
+    ],
+    "reactions": [
+      { "type": "Amused", "count": 10 },
+      { "type": "Clever", "count": 25 },
+      { "type": "...Wow", "count": 15 }
+    ]
+  },
+  {
+    "category": "Office & College Life",
+    "isAnonymous": false,
+    "text": "Spent two hours in a meeting that could have been an email. Now I need to spend two hours recovering from the meeting.",
+    "comments": [
+        { "text": "The circle of corporate life.", "replies": [] }
+    ],
+    "reactions": [
+      { "type": "Amused", "count": 45 },
+      { "type": "Clever", "count": 10 },
+      { "type": "...Wow", "count": 3 }
+    ]
+  },
+  {
+    "category": "Tech & Geek Humor",
+    "isAnonymous": false,
+    "text": "My smart fridge just sent me a notification that I'm out of milk. I'm not, but I appreciate its chaotic energy.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 12 },
+      { "type": "Clever", "count": 9 },
+      { "type": "...Wow", "count": 11 }
+    ]
+  },
+  {
+    "category": "Roasts & Burns",
+    "isAnonymous": false,
+    "text": "I'm not saying you're boring, but my phone's battery lasts longer when I'm talking to you.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 18 },
+      { "type": "Clever", "count": 24 },
+      { "type": "...Wow", "count": 14 }
+    ]
+  },
+  {
+    "category": "Relationship & Dating Humor",
+    "isAnonymous": false,
+    "text": "My boyfriend thought 'manual labor' meant reading the instruction manual. I can't even be mad, that's just impressive.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 22 },
+      { "type": "Clever", "count": 19 },
+      { "type": "...Wow", "count": 7 }
+    ]
+  },
+  {
+    "category": "Random & Toilet Humor",
+    "isAnonymous": false,
+    "text": "Friend: 'How's life?' Me: 'It's like I'm trying to fold a fitted sheet, but the sheet is on fire.'",
+    "comments": [
+        { "text": "A perfect metaphor.", "replies": [] }
+    ],
+    "reactions": [
+      { "type": "Amused", "count": 38 },
+      { "type": "Clever", "count": 20 },
+      { "type": "...Wow", "count": 10 }
+    ]
+  },
+  {
+    "category": "Office & College Life",
+    "isAnonymous": true,
+    "text": "The professor said 'the final exam will be easy'. This is the same person who thinks 'optional reading' is a fun suggestion.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 29 },
+      { "type": "Clever", "count": 11 },
+      { "type": "...Wow", "count": 6 }
+    ]
+  },
+  {
+    "category": "Political Satire",
+    "isAnonymous": true,
+    "text": "I want a politician who is honest. And also one who can fly and shoot lasers from their eyes. Both seem equally likely.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 17 },
+      { "type": "Clever", "count": 21 },
+      { "type": "...Wow", "count": 13 }
+    ]
+  },
+  {
+    "category": "Tech & Geek Humor",
+    "isAnonymous": false,
+    "text": "The year is 2045. I ask my AI assistant to play some music. It replies, 'Sorry, you must watch this 30-second ad first.'",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 24 },
+      { "type": "Clever", "count": 16 },
+      { "type": "...Wow", "count": 19 }
+    ]
+  },
+  {
+    "category": "Roasts & Burns",
+    "isAnonymous": false,
+    "text": "I'd agree with you, but then we'd both be wrong.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 31 },
+      { "type": "Clever", "count": 40 },
+      { "type": "...Wow", "count": 8 }
+    ]
+  },
+  {
+    "category": "Relationship & Dating Humor",
+    "isAnonymous": true,
+    "text": "Every Desi wedding has that one uncle who thinks he's the official choreographer for the dance floor.",
+    "comments": [
+        { "text": "And his go-to move is the lightbulb twist.", "replies": [] }
+    ],
+    "reactions": [
+      { "type": "Amused", "count": 33 },
+      { "type": "Clever", "count": 7 },
+      { "type": "...Wow", "count": 3 }
+    ]
+  },
+  {
+    "category": "Office & College Life",
+    "isAnonymous": false,
+    "text": "My resume is just a list of things I hope nobody asks me to do on the first day.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 39 },
+      { "type": "Clever", "count": 14 },
+      { "type": "...Wow", "count": 2 }
+    ]
+  },
+  {
+    "category": "Random & Toilet Humor",
+    "isAnonymous": false,
+    "text": "I whispered 'are you hungry?' to my stomach and a demon from the 5th dimension replied 'for souls, yes'. So I'm getting tacos.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 27 },
+      { "type": "Clever", "count": 22 },
+      { "type": "...Wow", "count": 11 }
+    ]
+  },
+  {
+    "category": "Political Satire",
+    "isAnonymous": false,
+    "text": "Breaking News: Area man discovers that shouting at his TV during political debates has zero effect on the outcome.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 19 },
+      { "type": "Clever", "count": 10 },
+      { "type": "...Wow", "count": 4 }
+    ]
+  },
+  {
+    "category": "Tech & Geek Humor",
+    "isAnonymous": false,
+    "text": "My password has to be 8 characters long, include a number, an uppercase letter, a symbol, a haiku, and a blood sacrifice.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 41 },
+      { "type": "Clever", "count": 23 },
+      { "type": "...Wow", "count": 10 }
+    ]
+  },
+  {
+    "category": "Roasts & Burns",
+    "isAnonymous": false,
+    "text": "If you were a spice, you'd be flour.",
+    "comments": [
+        { "text": "Not even salt. Just flour.", "replies": [] }
+    ],
+    "reactions": [
+      { "type": "Amused", "count": 26 },
+      { "type": "Clever", "count": 36 },
+      { "type": "...Wow", "count": 16 }
+    ]
+  },
+  {
+    "category": "Relationship & Dating Humor",
+    "isAnonymous": false,
+    "text": "The most romantic thing my husband has ever said to me is, 'I ordered extra fries for us to share.'",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 45 },
+      { "type": "Clever", "count": 5 },
+      { "type": "...Wow", "count": 1 }
+    ]
+  },
+  {
+    "category": "Office & College Life",
+    "isAnonymous": true,
+    "text": "My LinkedIn profile is a work of fiction that would make J.R.R. Tolkien proud.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 34 },
+      { "type": "Clever", "count": 24 },
+      { "type": "...Wow", "count": 7 }
+    ]
+  },
+  {
+    "category": "Random & Toilet Humor",
+    "isAnonymous": false,
+    "text": "The IKEA instruction manual for my self-esteem is just a single, blurry picture of a question mark.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 23 },
+      { "type": "Clever", "count": 18 },
+      { "type": "...Wow", "count": 13 }
+    ]
+  },
+  {
+    "category": "Political Satire",
+    "isAnonymous": false,
+    "text": "Watching politicians try to act 'relatable' is my favorite form of cringe comedy.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 28 },
+      { "type": "Clever", "count": 13 },
+      { "type": "...Wow", "count": 6 }
+    ]
+  },
+  {
+    "category": "Tech & Geek Humor",
+    "isAnonymous": true,
+    "text": "I asked my Amazon Alexa to tell me a joke. It started telling me my bank balance. Not cool, Alexa.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 32 },
+      { "type": "Clever", "count": 17 },
+      { "type": "...Wow", "count": 9 }
+    ]
+  },
+  {
+    "category": "Roasts & Burns",
+    "isAnonymous": false,
+    "text": "You have the charisma of a damp cloth.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 21 },
+      { "type": "Clever", "count": 27 },
+      { "type": "...Wow", "count": 12 }
+    ]
+  },
+  {
+    "category": "Relationship & Dating Humor",
+    "isAnonymous": false,
+    "text": "Dating in your 30s is mostly just saying 'I'm too old for this' about everything.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 36 },
+      { "type": "Clever", "count": 9 },
+      { "type": "...Wow", "count": 3 }
+    ]
+  },
+  {
+    "category": "Office & College Life",
+    "isAnonymous": false,
+    "text": "My motto is 'Why do today what you can put off until it's a critical emergency?'",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 42 },
+      { "type": "Clever", "count": 15 },
+      { "type": "...Wow", "count": 4 }
+    ]
+  },
+  {
+    "category": "Random & Toilet Humor",
+    "isAnonymous": false,
+    "text": "I'm at that age where a night of heavy drinking requires a 3-5 business day recovery period.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 48 },
+      { "type": "Clever", "count": 10 },
+      { "type": "...Wow", "count": 2 }
+    ]
+  },
+  {
+    "category": "Political Satire",
+    "isAnonymous": false,
+    "text": "I wish I had the confidence of a politician explaining why their last 10 failed policies were actually brilliant successes.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 20 },
+      { "type": "Clever", "count": 30 },
+      { "type": "...Wow", "count": 10 }
+    ]
+  },
+  {
+    "category": "Tech & Geek Humor",
+    "isAnonymous": false,
+    "text": "My computer's 'check for solutions' button is the most useless feature since the 'close door' button in an elevator.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 37 },
+      { "type": "Clever", "count": 22 },
+      { "type": "...Wow", "count": 8 }
+    ]
+  },
+  {
+    "category": "Roasts & Burns",
+    "isAnonymous": true,
+    "text": "Some people are like clouds. When they disappear, it's a beautiful day.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 29 },
+      { "type": "Clever", "count": 33 },
+      { "type": "...Wow", "count": 18 }
+    ]
+  },
+  {
+    "category": "Relationship & Dating Humor",
+    "isAnonymous": false,
+    "text": "The greatest love story ever told is me and my bed. Nothing can tear us apart. Except the alarm clock.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 50 },
+      { "type": "Clever", "count": 10 },
+      { "type": "...Wow", "count": 5 }
+    ]
+  },
+  {
+    "category": "Office & College Life",
+    "isAnonymous": false,
+    "text": "My brain during a lecture: 70% song lyrics, 20% what's for lunch, 9% replaying an awkward thing I did in 2011, and 1% the actual lecture.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 44 },
+      { "type": "Clever", "count": 11 },
+      { "type": "...Wow", "count": 6 }
+    ]
+  },
+  {
+    "category": "Random & Toilet Humor",
+    "isAnonymous": false,
+    "text": "I am an adult, which means I can eat a whole cake for dinner if I want. And then spend the night regretting it.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 39 },
+      { "type": "Clever", "count": 8 },
+      { "type": "...Wow", "count": 3 }
+    ]
+  },
+  {
+    "category": "Political Satire",
+    "isAnonymous": true,
+    "text": "The government is just a group of people who haven't figured out how to unsubscribe from a group chat they accidentally created.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 25 },
+      { "type": "Clever", "count": 25 },
+      { "type": "...Wow", "count": 15 }
+    ]
+  },
+  {
+    "category": "Tech & Geek Humor",
+    "isAnonymous": false,
+    "text": "The 'I have read and agree to the terms and conditions' is the biggest lie on the internet.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 47 },
+      { "type": "Clever", "count": 12 },
+      { "type": "...Wow", "count": 7 }
+    ]
+  },
+  {
+    "category": "Roasts & Burns",
+    "isAnonymous": false,
+    "text": "You're the reason they put instructions on shampoo bottles.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 33 },
+      { "type": "Clever", "count": 28 },
+      { "type": "...Wow", "count": 11 }
+    ]
+  },
+  {
+    "category": "Relationship & Dating Humor",
+    "isAnonymous": false,
+    "text": "My mom's way of saying 'I love you' is 'Beta, have you eaten? You look thin.'",
+    "comments": [
+        { "text": "The official love language of Desi moms.", "replies": [] }
+    ],
+    "reactions": [
+      { "type": "Amused", "count": 40 },
+      { "type": "Clever", "count": 15 },
+      { "type": "...Wow", "count": 5 }
+    ]
+  },
+  {
+    "category": "Office & College Life",
+    "isAnonymous": false,
+    "text": "I'm not saying I'm a procrastinator, but I'm going to finish this joke tomorrow.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 38 },
+      { "type": "Clever", "count": 19 },
+      { "type": "...Wow", "count": 9 }
+    ]
+  },
+  {
+    "category": "Random & Toilet Humor",
+    "isAnonymous": true,
+    "text": "Just once, I want to see a ghost do something useful, like the dishes.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 31 },
+      { "type": "Clever", "count": 13 },
+      { "type": "...Wow", "count": 8 }
+    ]
+  },
+  {
+    "category": "Tech & Geek Humor",
+    "isAnonymous": false,
+    "text": "My Wifi went out so I had to talk to my family. They seem like nice people.",
+    "comments": [],
+    "reactions": [
+      { "type": "Amused", "count": 46 },
+      { "type": "Clever", "count": 18 },
+      { "type": "...Wow", "count": 6 }
+    ]
+  }
+]
