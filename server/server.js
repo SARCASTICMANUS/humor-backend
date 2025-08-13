@@ -13,7 +13,7 @@ dotenv.config();
 connectDB();
 
 const app = express();
-const PORT = process.env.PORT || 3001;
+const PORT = process.env.PORT;
 
 // CORS configuration (removed trailing slash in origin)
 app.use(cors({
