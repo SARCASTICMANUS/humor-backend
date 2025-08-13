@@ -16,7 +16,7 @@ const app = express();
 
 // CORS configuration
 app.use(cors({
-  origin: ['https://humor-backendd.onrender.com'],
+  origin: ['https://humor-frontend.vercel.app/'],
   credentials: true
 }));
 app.use(express.json());
