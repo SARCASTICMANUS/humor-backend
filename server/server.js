@@ -16,7 +16,7 @@ const app = express();
 
 // CORS configuration
 app.use(cors({
-  origin: ['http://localhost:5173', 'http://localhost:5174', 'http://localhost:3000', 'http://localhost:5181'],
+  origin: ['https://humor-backendd.onrender.com/'],
   credentials: true
 }));
 app.use(express.json());
