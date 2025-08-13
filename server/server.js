@@ -1,4 +1,3 @@
-
 import express from 'express';
 import dotenv from 'dotenv';
 import cors from 'cors';
@@ -10,17 +9,21 @@ import notificationRoutes from './routes/notifications.js';
 
 dotenv.config();
 
+// Connect to DB
 connectDB();
 
 const app = express();
+const PORT = process.env.PORT || 3001;
 
-// CORS configuration
+// CORS configuration (removed trailing slash in origin)
 app.use(cors({
-  origin: ['https://humor-frontend.vercel.app/'],
+  origin: ['https://humor-frontend.vercel.app'],
   credentials: true
 }));
+
 app.use(express.json());
 
+// Root route
 app.get('/', (req, res) => {
   res.json({
     message: 'Humor Backend API is running!',
@@ -36,16 +39,15 @@ app.get('/api/health', (req, res) => {
     status: 'healthy',
     timestamp: new Date().toISOString(),
     uptime: process.uptime(),
-    mongodb: 'connected' // This could be enhanced to actually check DB connection
+    mongodb: 'connected' // You can later add actual DB status check here
   });
 });
 
+// Routes
 app.use('/api/auth', authRoutes);
 app.use('/api/posts', postRoutes);
 app.use('/api/users', userRoutes);
 app.use('/api/notifications', notificationRoutes);
-
-const PORT = process.env.PORT || 3001;
 
 app.listen(PORT, () => {
   console.log(`🚀 Humor Backend Server is running!`);
